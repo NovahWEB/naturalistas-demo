@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://konsenda.novahweb.com/sitemap-index.xml
